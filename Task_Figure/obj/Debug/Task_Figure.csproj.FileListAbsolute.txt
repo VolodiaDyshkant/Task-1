@@ -1,0 +1,7 @@
+D:\2 курс\Програмування 2 курс\C#\epam\Task_Figure\Task_Figure\bin\Debug\Task_Figure.exe.config
+D:\2 курс\Програмування 2 курс\C#\epam\Task_Figure\Task_Figure\bin\Debug\Task_Figure.exe
+D:\2 курс\Програмування 2 курс\C#\epam\Task_Figure\Task_Figure\bin\Debug\Task_Figure.pdb
+D:\2 курс\Програмування 2 курс\C#\epam\Task_Figure\Task_Figure\obj\Debug\Task_Figure.csprojAssemblyReference.cache
+D:\2 курс\Програмування 2 курс\C#\epam\Task_Figure\Task_Figure\obj\Debug\Task_Figure.csproj.CoreCompileInputs.cache
+D:\2 курс\Програмування 2 курс\C#\epam\Task_Figure\Task_Figure\obj\Debug\Task_Figure.exe
+D:\2 курс\Програмування 2 курс\C#\epam\Task_Figure\Task_Figure\obj\Debug\Task_Figure.pdb
